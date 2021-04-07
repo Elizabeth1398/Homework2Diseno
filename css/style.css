@@ -1,0 +1,138 @@
+.headerNavigation{
+	float:left;
+	font-size:24px;
+	margin-left: 10px;
+    margin-top: 7px;
+}
+.navigation-link{
+	font-size:18px !important;
+}
+.links {
+	color: #555F66;
+}
+.signUp{
+	font-size:18px !important;
+	color: white !important; 
+	margin-right: 11px !important; 
+	margin-top: 7px !important; 
+	background-color: #629DD1 !important; 
+    border-color: #629DD1 !important;
+	font-weight:100 !important;
+	padding: 0 2rem !important;
+	
+}
+.backgroundImage {
+  background-image: url('../images/banner.jpg');
+  height: 700px;
+}
+
+.titulo1 {
+	color: white;
+	font-size: 54px;
+	margin-top: 200px;
+}
+.transparentButton{
+	border-color: #fff !important; 
+	color: white !important;	
+	width: 220px !important; 
+	font-size: 24px !important;
+	height:50px !important;
+	font-weight:100 !important;
+}
+.buttonImage{
+	font-size:24px !important;
+	color: white !important; 
+	margin-right: 11px !important; 
+	background-color: #629DD1 !important; 
+    border-color: #629DD1 !important;
+	font-weight:100 !important;
+	height: 50px !important;
+    width: 220px !important;
+
+	
+}
+.subtitle {
+	color: white;
+	font-size: 24px;
+}
+.separator{
+	margin-top: 35px;
+}
+.cards {
+	height: 600px;
+	margin-top:100px;
+	text-align:center;
+}
+.card{
+	height: 370px; 
+	border: solid #E9EEF0; 
+	border-width: 4px;
+	margin: 10px 120px !important;
+}
+
+.title2{
+	font-size:37px;
+}
+.subtitle2{
+	color: #bbb;
+	font-size:28px
+}
+
+.blackBackground {
+	background-color: #192024;
+	color: white;
+	text-align: center;
+}
+.title3{
+	color:white;
+	font-size:38px;
+}
+.titleDescription{
+	font-size:23px;
+	color:white;
+}
+.description{
+	font-size:18px;
+	color:#C5C7C8;
+	width: 812px;
+    padding-left: 84px;
+}
+
+.whiteBackground{
+	width: 1300px;
+	margin-left: 300px;
+}
+.rowSeparator{
+	    margin-left: 7rem !important;
+}
+.mountainButton{
+	border-color: grey !important; 
+	color: #666F77 !important; 
+	width: 220px !important; 
+	font-size: 17px !important;
+	font-weight: 100 !important
+}
+
+.footerP{
+	background-color: #EDF0F1;
+	padding-top: 20px;
+}
+}
+.rights{
+	text-align:center;
+}
+
+.lastLinks{
+	color:black;
+}
+.footerRight{
+	margin-right:200px;
+	
+}
+.footerLeft{
+	margin-left:200px;
+	
+}
+.colorFooter{
+	color:#BBBBBB;
+}
